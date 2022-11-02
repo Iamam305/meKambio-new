@@ -51,6 +51,7 @@
 /*******************************************************/
 * {
   margin: 0;
+  scroll-behavior: smooth;
   padding: 0;
   border: none;
   outline: none;
